@@ -19,12 +19,12 @@ vp,Veteranen Pool,2,Militär
 vpa,Vereinte Patrioten,2,Politik
 qd,Querdenker,2,Politik
 at,Einsatz im Ahrtal,2,Militär
-ad,Adel,NA,NA
-gas,Gastronomie,NA,NA
-pz,Polizei,NA,NA
-mt,Militär,NA,NA
-ws,Wirtschaft,NA,NA
-pl,Politik,NA,NA
-rt,Recht,NA,NA
-mz,Medizin,NA,NA
-kl,Kultur,NA,NA
+ad,Adel,3,Adel
+gas,Gastronomie,3,Gastronomie
+pz,Polizei,3,Polizei
+mt,Militär,3,Militär
+ws,Wirtschaft,3,Wirtschaft
+pl,Politik,3,Politik
+rt,Recht,3,Recht
+mz,Medizin,3,Medizin
+kl,Kultur,3,Kultur
